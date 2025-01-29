@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Zennisch",
     author_email="zennisch@gmail.com",
-    url="https://github.com/Zennisch/pypi_zns_google-generativeai",
+    url="https://github.com/Zennisch/zns_google-generativeai",
     packages=find_packages(),
     install_requires=[
         "zns_logging",
